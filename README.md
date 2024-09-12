@@ -1,1 +1,1 @@
-# Machine-Learning-projects-basics
+# Machine-Learning-projects-financial-model
